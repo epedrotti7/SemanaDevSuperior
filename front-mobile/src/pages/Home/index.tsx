@@ -13,6 +13,7 @@ const Home = () => {
        navigation.navigate('CreateRecord')
     }
     return (
+      // Fragment, permite colocar várias views
       <>
         <Header/>
         <View style={styles.container}>

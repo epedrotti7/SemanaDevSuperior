@@ -16,7 +16,8 @@ export default function App() {
     Play_400Regular,
     Play_700Bold
   });
-
+  
+// Caso as fontes não esteja carregadas, será exibida um loading no celular
   if (!fontsLoaded) {
     return <AppLoading />;
   } else {
