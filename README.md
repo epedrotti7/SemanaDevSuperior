@@ -53,7 +53,7 @@ Para rodar a aplicação, abra 2 terminais de cada pasta (front-web & front-mobi
 npm run start
 ```
 
-A aplicação web irá abrir automaticamente.
+A aplicação web irá abrir automaticamente. <br>
 A aplicação mobile abrirá a interface do expo, então basta abrir o app do Expo em seu smartphone e scanear o QR code.
 
 
