@@ -8,7 +8,7 @@ O projeto está hospedado em https://sds1-pedrotti.netlify.app/
 As seguintes tecnologias foram utilizadas:
 
 * [React](https://pt-br.reactjs.org/)
-* [React-Native](https://reactnative.dev/)
+* [React-Native](https://reactnative.dev/) & [Expo](https://expo.io/)
 * [Spring-Boot](https://spring.io/projects/spring-framework)
 * [PostgreSQL](https://www.postgresql.org/)
 * [Heroku](https://dashboard.heroku.com/)
